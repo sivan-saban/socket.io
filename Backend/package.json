@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "sivan saban",
+  "license": "ISC"
+}
